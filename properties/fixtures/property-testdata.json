@@ -1,0 +1,77 @@
+[
+{
+    "model": "properties.property",
+    "pk": 1,
+    "fields": {
+        "prop_type": "Condo",
+        "picture_url": "https://ssl.cdn-redfin.com/photo/169/mbpaddedwide/320/genMid.201809320_0.jpg",
+        "description": "Small and clean.",
+        "price": "400000.99",
+        "nearest_elementary": "None",
+        "street": "Drury Lane",
+        "city": "LV",
+        "state": "NM",
+        "zip_code": 87701
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 2,
+    "fields": {
+        "prop_type": "Home",
+        "picture_url": "https://photos.zillowstatic.com/p_h/ISyj5lizv1i1po0000000000.jpg",
+        "description": "Quaint.",
+        "price": "1980000.00",
+        "nearest_elementary": "None",
+        "street": "Happy Trails",
+        "city": "LV",
+        "state": "NM",
+        "zip_code": 87701
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 3,
+    "fields": {
+        "prop_type": "Home",
+        "picture_url": "https://photos.zillowstatic.com/p_f/ISusl46031v8tn0000000000.jpg",
+        "description": "Old and clean.",
+        "price": "500000.00",
+        "nearest_elementary": "None",
+        "street": "Dead End Pass",
+        "city": "LV",
+        "state": "NM",
+        "zip_code": 87701
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 4,
+    "fields": {
+        "prop_type": "Home",
+        "picture_url": "https://photos.zillowstatic.com/p_f/ISqxqs29wqgv711000000000.jpg",
+        "description": "$$$$",
+        "price": "6000000.00",
+        "nearest_elementary": "None",
+        "street": "Nested Loop",
+        "city": "LV",
+        "state": "NM",
+        "zip_code": 87701
+    }
+},
+{
+    "model": "properties.property",
+    "pk": 5,
+    "fields": {
+        "prop_type": "Condo",
+        "picture_url": "https://ssl.cdn-redfin.com/photo/169/bigphoto/971/201808971_9_0.jpg",
+        "description": "Small and expensive.",
+        "price": "600550.00",
+        "nearest_elementary": "Ala Wai",
+        "street": "Waters Edge",
+        "city": "LV",
+        "state": "NM",
+        "zip_code": 87701
+    }
+}
+]

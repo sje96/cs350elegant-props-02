@@ -1,0 +1,56 @@
+[
+{
+    "model": "transactions.transaction",
+    "pk": 1,
+    "fields": {
+        "prop": 1,
+        "trans_date": "2018-04-23T08:45:46.254Z",
+        "trans_type": "offer"
+    }
+},
+{
+    "model": "transactions.transaction",
+    "pk": 2,
+    "fields": {
+        "prop": 4,
+        "trans_date": "2018-04-23T08:45:55.310Z",
+        "trans_type": "cancel"
+    }
+},
+{
+    "model": "transactions.transaction",
+    "pk": 3,
+    "fields": {
+        "prop": 3,
+        "trans_date": "2018-04-23T08:46:28.945Z",
+        "trans_type": "close"
+    }
+},
+{
+    "model": "transactions.transaction",
+    "pk": 4,
+    "fields": {
+        "prop": 4,
+        "trans_date": "2018-04-23T08:46:38.018Z",
+        "trans_type": "offer"
+    }
+},
+{
+    "model": "transactions.transaction",
+    "pk": 5,
+    "fields": {
+        "prop": 2,
+        "trans_date": "2018-04-23T08:46:44.997Z",
+        "trans_type": "offer"
+    }
+},
+{
+    "model": "transactions.transaction",
+    "pk": 6,
+    "fields": {
+        "prop": 5,
+        "trans_date": "2018-04-23T08:47:21.342Z",
+        "trans_type": "offer"
+    }
+}
+]
