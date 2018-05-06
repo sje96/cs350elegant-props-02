@@ -1,0 +1,16 @@
+<!-- transaction/detail.html -->
+{% extends "core/base.html" %}
+{% load humanize %}
+
+{% block page_title %} Transaction {% endblock page_title %}
+
+
+
+{% block content %}
+    <p>Offer made on: {{ object.trans_date }}</p>
+    <p>Transaction Type: {{ object.trans_type }}</p>
+    <p>Offered made on Property: {{ object.prop }}</p>
+</div>
+
+{% endblock content %}
+
